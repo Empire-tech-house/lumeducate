@@ -1,7 +1,3 @@
-# luma-nuxt
-
-> My shining Nuxt.js project
-
 ## Build Setup
 
 ``` bash
